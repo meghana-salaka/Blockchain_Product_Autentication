@@ -1,4 +1,4 @@
-# 🔐 Fake Product Detection Using Blockchain
+# 🔐 Branded Products Autentication using Blockchain
 
 ## 📌 Project Overview
 This project presents a blockchain-based product authentication system designed to prevent counterfeit products in supply chains. Each product is assigned a unique QR code that is linked to immutable blockchain records. The system verifies ownership and ensures that a product is genuine only for its registered owner.
