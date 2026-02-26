@@ -45,7 +45,7 @@ This project presents a blockchain-based product authentication system designed 
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/meghana-salaka/Blockchain_Product_Autentication.git
 
 ---
 
